@@ -1,0 +1,143 @@
+*{
+    margin:10;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ 
+ nav {
+    background-color: rgba(214, 133, 170, 0.5);
+    color:rgb (255, 255, 255);
+    padding: 25px;
+ }
+ 
+ nav a{
+    color: rgb(126, 5, 66);
+    margin-left: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 29px;
+    height: 40px;
+     }
+ 
+ 
+ body{
+    background-image: url("https://www.canva.com/design/DAFTphjV9GA/bljGq9D7uC3plVC1z-19sQ/edit?utm_content=DAFTphjV9GA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton");
+    width: auto;
+    height: auto;
+ 
+ }
+ 
+ h1{
+    color: rgb(126, 5, 66);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 400%;
+    height: 40px;;
+ }
+ 
+ p{
+    color: rgb(181, 5, 99);
+    font-size: 25pt;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ .conc, .sobre {
+    background-color: rgb(108, 3, 59);
+ }
+ 
+ h2{
+    color: rgb(108, 3, 59);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    height: 25px;
+    background-color: rgba(108,3, 59);
+ }
+ 
+ .img{
+    width: 80%;
+    height: 250px auto;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(108, 3, 59);
+ }
+ 
+ .img img{
+    width: 15%;
+    border-radius: 10px;
+ }
+ 
+ footer{  
+    font-style: oblique;
+    color: rgb(233, 123, 200);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;
+ }
+ 
+ footer a:hover{
+    color: rgb(214, 130, 179);
+ }
+ 
+ article{
+    padding: 100pt;
+ }
+ 
+ .lista{
+    background-color: rgb(105, 7, 64);
+    font-style:normal;
+ }
+ 
+ .sec{
+   font-family: 'Times New Roman', Times, serif;
+   font-size:200% ;
+   padding: 10px;
+   text-align:center;
+   color:white;
+ }
+ 
+ .sec1{
+   font-family: 'Times New Roman', Times, serif;
+   font-size:200% ;
+   padding: 10px;
+   text-align: center;
+   color:white;
+ }
+ 
+ .sec2{
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align:right;
+    font-style:oblique;
+    padding: 15px;
+    border-radius: 15px;
+    color:rgb(255, 163, 210);
+    font-family: 'Times New Roman', Times, serif;
+    font-size
+    :25px 
+ }
+ 
+ .link1{  
+    font-style: oblique;
+    position: absolute;
+     left: 190px;
+     top:415px;
+    color: rgb(207, 10, 174);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;
+ }
+ 
+ .link2{  
+    font-style: oblique;
+    color: rgb(158, 28, 97);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: transparent;
+ }
+ 
+ .sec3{
+    background-color: rgba(159, 31, 99, 0.5);
+    text-align:right;
+    font-style:oblique;
+    padding: 15px;
+    border-radius: 15px;
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+ }
